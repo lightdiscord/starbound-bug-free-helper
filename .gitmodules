@@ -1,0 +1,3 @@
+[submodule "dependencies/nix-py-starbound"]
+	path = dependencies/nix-py-starbound
+	url = git@github.com:lightdiscord/nix-py-starbound.git
